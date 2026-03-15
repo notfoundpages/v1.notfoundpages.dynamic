@@ -1,0 +1,203 @@
+[
+  {
+    "name": "Virati Akiranandhan Reddy",
+    "username": "ViratiAkiraNandhanReddy",
+    "avatar": "https://github.com/ViratiAkiraNandhanReddy.png",
+    "contributions": 100,
+    "github_url": "https://github.com/ViratiAkiraNandhanReddy",
+    "role": "",
+    "description": "description[40]",
+    "featured": true,
+    "extra": "<span><i class=\"ph-bold ph-star\"></i> 5 Featured</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Gold",
+    "status": "Active",
+    "pull_requests": 25,
+    "reviews": 50,
+    "badges": [
+      "",
+      "",
+      ""
+    ],
+    "isOwner": true
+  },
+  {
+    "name": "Ghost",
+    "username": "ghost",
+    "avatar": "https://github.com/ghost.png",
+    "contributions": 0,
+    "github_url": "https://github.com/ghost",
+    "role": "",
+    "description": "description[40]",
+    "featured": true,
+    "extra": "<span><i class=\"ph-bold ph-code\"></i> PR Reviewer</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Gold",
+    "status": "Active",
+    "pull_requests": 0,
+    "reviews": 0,
+    "badges": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Octocat",
+    "username": "octocat",
+    "avatar": "https://github.com/octocat.png",
+    "contributions": 0,
+    "github_url": "https://github.com/octocat",
+    "role": "",
+    "description": "description[40]",
+    "featured": true,
+    "extra": "<span><i class=\"ph-bold ph-palette\"></i> Design Lead</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Gold",
+    "status": "Active",
+    "pull_requests": 0,
+    "reviews": 0,
+    "badges": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Ghost",
+    "username": "ghost",
+    "avatar": "https://github.com/ghost.png",
+    "contributions": 0,
+    "github_url": "https://github.com/ghost",
+    "role": "",
+    "description": "description[40]",
+    "featured": false,
+    "extra": "<span><i class=\"ph-bold ph-check-circle\"></i> QA Lead</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Silver",
+    "status": "Active",
+    "pull_requests": 0,
+    "reviews": 0,
+    "badges": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Octocat",
+    "username": "octocat",
+    "avatar": "https://github.com/octocat.png",
+    "contributions": 0,
+    "github_url": "https://github.com/octocat",
+    "role": "",
+    "description": "description[40]",
+    "featured": false,
+    "extra": "<span><i class=\"ph-bold ph-palette\"></i> Design Lead</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Gold",
+    "status": "Active",
+    "pull_requests": 0,
+    "reviews": 0,
+    "badges": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Ghost",
+    "username": "ghost",
+    "avatar": "https://github.com/ghost.png",
+    "contributions": 0,
+    "github_url": "https://github.com/ghost",
+    "role": "",
+    "description": "description[40]",
+    "featured": false,
+    "extra": "<span><i class=\"ph-bold ph-handshake\"></i> Community</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Bronze",
+    "status": "Active",
+    "pull_requests": 0,
+    "reviews": 0,
+    "badges": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Octocat",
+    "username": "octocat",
+    "avatar": "https://github.com/octocat.png",
+    "contributions": 0,
+    "github_url": "https://github.com/octocat",
+    "role": "",
+    "description": "description[40]",
+    "featured": true,
+    "extra": "<span><i class=\"ph-bold ph-palette\"></i> Design Lead</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Gold",
+    "status": "Active",
+    "pull_requests": 0,
+    "reviews": 0,
+    "badges": [
+      "",
+      "",
+      ""
+    ]
+  },
+  {
+    "name": "Ghost",
+    "username": "ghost",
+    "avatar": "https://github.com/ghost.png",
+    "contributions": 0,
+    "github_url": "https://github.com/ghost",
+    "role": "",
+    "description": "description[40]",
+    "featured": false,
+    "extra": "<span><i class=\"ph-bold ph-git-branch\"></i> Active Dev</span>",
+    "expertise": [
+      "",
+      "",
+      ""
+    ],
+    "tier": "Bronze",
+    "status": "Active",
+    "pull_requests": 0,
+    "reviews": 0,
+    "badges": [
+      "",
+      "",
+      ""
+    ]
+  }
+]
